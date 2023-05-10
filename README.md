@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gueyeb
 - 👀 I’m interested in Data & Cloud architecture
 - 🌱 I’m currently learning AWS
-- 💞️ I’m looking to collaborate on <TBD>
+- 💞️ I’m looking to collaborate on AI & projects for Africa
 - 📫 How to reach me : babacar.gueye@outlook.com
