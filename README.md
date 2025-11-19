@@ -2,7 +2,7 @@
 
 ![Open to Collaboration](https://img.shields.io/badge/Open_to_collaboration-%F0%9F%91%8D-blue)
 
-I'm a passionate **IT consultant & architect** with 10+ years of experience across **Data, Cloud, and Agile project management**.
+I'm a passionate **Software/Data engineer & aspiring enterprise architect** with 10+ years of experience across **Data, Cloud, and Agile project management**.
 
 🌍 Based in Paris | 💡 Driven by impact for Africa | ☁️ Learning AWS
 
