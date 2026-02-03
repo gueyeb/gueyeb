@@ -4,7 +4,7 @@
 
 I'm a passionate **Software/Data engineer & aspiring enterprise architect** with 10+ years of experience across **Data, Cloud, and Agile project management**.
 
-🌍 Based in Paris | 💡 Driven by impact for Africa | ☁️ Learning AWS
+🌍 Based in Paris | 💡 Driven by impact for Africa & the world | ☁️ Learning everyday
 
 ---
 
